@@ -1,15 +1,6 @@
-# Resume Builder
 
-## Description
 
-Create your own custom resume quickly with sections designed to impress recruiters globally. Each section is carefully tailored to showcase your skills and personality, ensuring your application stands out and leaves a lasting impression.
-
-## Live
-
-- This application is purely frontend application, collection of no data at all.
-- It is deployed on vercel [Live Link](https://resume-builder-zeta-topaz.vercel.app/).
-
-## Table of Contents
+ Table of Contents
 
 1. [Technologies Used](#technologies-used)
 2. [Installation ](#installation)
@@ -20,7 +11,7 @@ Create your own custom resume quickly with sections designed to impress recruite
 7. [Contributors](#contributors)
 8. [License](#license)
 
-## Technologies Used
+ Technologies Used
 
 - Vite
 - Npm
@@ -34,13 +25,7 @@ Create your own custom resume quickly with sections designed to impress recruite
 - Redux Toolkit
 - React hook form
 
-## Installation
-
-1. Clone the repository.
-2. Navigate to the frontend folder and run `npm install` to install frontend dependencies.
-3. Run `npm run dev` in the frontend folder to start the frontend application.
-
-## Features
+ Features
 
 - Pre defined multiple templates
 - Industry level resume creation
@@ -48,7 +33,7 @@ Create your own custom resume quickly with sections designed to impress recruite
 - Easy Interface
 - ATS Friendly Design
 
-## Folder Structure
+ Folder Structure
 
 <pre>
 |-- src
@@ -116,36 +101,11 @@ Create your own custom resume quickly with sections designed to impress recruite
 |-- package-lock.json
 </pre>
 
-## Acknowledgments
 
-- [Material UI](https://mui.com/material-ui/getting-started/overview/)
-- [Material UI ICONS ](https://mui.com/material-ui/material-icons/)
-- [React Hook Form](https://react-hook-form.com/)
-- [JsPdf](https://www.npmjs.com/package/jspdf)
-- Google
-
-## Project History
-
-- First Commit : January 07, 2024
-- First Release : February 07, 2024
-- Updated Release : I am continously updating our application after first live.
-
-## Contributors
+ Contributors
 
 - [ Dharmendra ](https://github.com/Dharmendra6944)
 - You are welcome to contribute here !
 
-## License
 
-You are free to:
-
-- Use — the software for any purpose
-- Share — Copy and redistribute the material in any medium or format
-- Adapt — Remix, transform, and build upon the material
-
-Under the following terms:
-
-- Attribution — You must give appropriate credit.
-- NonCommercial — You may not use material for commercial purposes.
-
-## Thank You
+ Thank You
